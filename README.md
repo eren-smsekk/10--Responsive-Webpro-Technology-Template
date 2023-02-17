@@ -1,5 +1,5 @@
 # Proje 10
-# Responsive Webpro Technology Template | HTML5 CSS3 BOOTSTRAP 5 FRAMEWORK
+# Responsive Webpro Technology Template | Html5 Css3 Bootstrap 5 Framework
 
 ![image](https://user-images.githubusercontent.com/115400485/219564895-6d98be84-0eeb-41bb-a616-d4ddbd078403.png)
 ![image](https://user-images.githubusercontent.com/115400485/219564967-be0f8707-5b10-4999-ba51-8d8a3beadd62.png)
