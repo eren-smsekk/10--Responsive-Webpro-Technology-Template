@@ -377,7 +377,7 @@ i:hover {
 
 #contact {
     background: linear-gradient(rgba(47, 35, 57, 0.9), rgba(47, 35, 57, 0.9)), 
-    url("img/contact.jpg");
+    url("img/contact.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
